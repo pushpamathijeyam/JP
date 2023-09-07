@@ -20,7 +20,9 @@ public class Test extends BaseClass {
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
 		System.out.println("welcome");
-		
+	System.out.println("good Evening");	
+
+	
 //		driver.get("https://www.facebook.com/");
 //		
 //		
