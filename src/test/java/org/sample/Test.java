@@ -19,7 +19,10 @@ public class Test extends BaseClass {
 	public static void main(String[] args) throws InterruptedException, AWTException {
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
+		System.out.println("welcome");
 	System.out.println("good Evening");	
+
+	
 //		driver.get("https://www.facebook.com/");
 //		
 //		
